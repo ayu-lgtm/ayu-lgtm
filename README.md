@@ -9,7 +9,7 @@
 ## 🚀 About Me
 Full-Stack Developer with **2.5+ years of production experience** building **enterprise-grade B2B & B2C applications** used by real business users.
 
-- 🔭 **Currently working on:** Backend & Full-Stack Development (Java, Spring Boot, React, SQL)
+- 🔭 **Currently working on:** Backend & Full-Stack Development (Java, Spring Boot, React, SQL, MERN )
 - 🌱 **Currently learning:** Generative AI, LLM APIs, Prompt Engineering
 - 👯 **Looking to collaborate on:** Scalable backend systems, REST APIs, enterprise web apps
 - 🤔 **Exploring:** System Design & Distributed Systems
@@ -17,27 +17,7 @@ Full-Stack Developer with **2.5+ years of production experience** building **ent
 
 ---
 
-## 🏢 Experience
-### **Assistant Manager – IT (Software Engineer)** | Tata Steel  
-**Jul 2023 – Present**
-- Built **25+ scalable REST APIs** using Java & Spring Boot  
-- Improved API performance by **35%** via SQL & logic optimization  
-- Developed real-time tracking systems used by **200+ users daily**  
-- Enhanced material traceability & billing accuracy by **~40%**  
-- Fixed **50+ production issues**, improving system stability  
 
----
-
-## 📂 Projects
-### **DigEca – Global E-Commerce Platform**
-- Backend for **1,000+ daily transactions**
-- **30% throughput improvement** via API & DB refactoring
-
-### **SmartFAB – Production Order Management**
-- QR-based tracking → **40% fewer traceability errors**
-- Robust approval workflows & billing consistency
-
----
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-rastogi-611b641b0)

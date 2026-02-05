@@ -2,7 +2,7 @@
 **Backend & Full-Stack Developer | Java • Spring Boot • React | Tata Steel**
 
 📩 **Email:** ✉️ **rastogiayush143@gmail.com**  
-💼 **Assistant Manager – IT (Software Engineer)** | **2.5+ Years Experience**
+💼 **Software Engineer** | **2.5+ Years Experience**
 
 ---
 

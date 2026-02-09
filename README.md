@@ -1,34 +1,40 @@
 # 💫 Hi 👋, I'm Ayush Rastogi  
 **Backend & Full-Stack Developer | Java • Spring Boot • React | Tata Steel**
 
-📩 **Email:** ✉️ **rastogiayush143@gmail.com**  
+📩 **Email:** ✉️ rastogiayush143@gmail.com  
 💼 **Software Engineer** | **2.5+ Years Experience**
 
 ---
 
 ## 🚀 About Me
-Full-Stack Developer with **2.5+ years of production experience** building **enterprise-grade B2B & B2C applications** used by real business users.
+Full-Stack Developer with **2.5+ years of production experience** building **enterprise B2B & B2C apps**.
 
-- 🔭 **Currently working on:** Backend & Full-Stack Development (Java, Spring Boot, React, SQL, MERN )
-- 🌱 **Currently learning:** Generative AI, LLM APIs, Prompt Engineering
-- 👯 **Looking to collaborate on:** Scalable backend systems, REST APIs, enterprise web apps
-- 🤔 **Exploring:** System Design & Distributed Systems
+- 🔭 **Working on:** Backend & Full-Stack (Java, Spring Boot, React, SQL, MERN)
+- 🌱 **Learning:** Generative AI, LLMs & Prompt Engineering
+- 👯 **Collaborating on:** Scalable backend systems, high-performance REST APIs
+- 🧠 **Interests:** System Design, Distributed Systems
 - 💬 **Ask me about:** Java, Spring Boot, SQL Optimization, REST APIs, DSA
 
 ---
 
+## 🧠 Daily Coding Practice
+Consistency matters — and here’s the data to prove it.
 
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-rastogi-611b641b0)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ayu-lgtm)
+### 🔥 LeetCode 📈
+<!-- LeetCode Stats Card (Auto-updating) -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/rastogiayush143?theme=dark&font=Baloo)
 
 ---
 
-<!-- 🐍 Contribution Snake -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" />
-</div>
+### 💚 GeeksforGeeks 🧩
+<!-- GFG Stats Card -->
+![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/ayushrastogi2000?theme=dark)
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-rastogi-611b641b0)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ayu-lgtm)
 
 ---
 
@@ -57,11 +63,6 @@ Full-Stack Developer with **2.5+ years of production experience** building **ent
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?theme=radical)
-
----
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=ayu-lgtm&theme=dark)
 
 ---
 

@@ -85,23 +85,26 @@ Full-Stack Developer with **2.5+ years of production experience** building **ent
 
 ---
 
-## 📊 GitHub Stats ![](https://github-readme-stats.vercel.app/api?username=ayu-lgtm&theme=dark&include_all_commits=true) ![](https://nirzak-streak-stats.vercel.app/?user=ayu-lgtm&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-lgtm&theme=dark&layout=compact) --- ## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=ayu-lgtm&theme=radical&margin-w=4)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ayu-lgtm&theme=dark&include_all_commits=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ayu-lgtm&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-lgtm&theme=dark&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayu-lgtm&theme=radical&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=dark" />
-</div>
+![](https://quotes-github-readme.vercel.app/api?theme=radical)
 
 ---
 
 ### 🔝 Top Contributed Repos
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ayu-lgtm&theme=dark" />
-</div>
+![](https://github-contributor-stats.vercel.app/api?username=ayu-lgtm&theme=dark)
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ayu-lgtm&color=0" />
-</div>
-
+[![](https://visitcount.itsvg.in/api?id=ayu-lgtm&color=0)](https://visitcount.itsvg.in)

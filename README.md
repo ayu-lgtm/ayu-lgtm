@@ -110,15 +110,21 @@ Backend-focused Software Engineer with **2.5+ years of production experience** b
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayu-lgtm&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-lgtm&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayu-lgtm&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-lgtm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayu-lgtm&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=ayu-lgtm&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayu-lgtm&theme=tokyonight" />
+</p>
+
 
 
 ---

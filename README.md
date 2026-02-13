@@ -1,98 +1,110 @@
-```latex
-\documentclass[letterpaper,11pt]{article}
 
-\usepackage[empty]{fullpage}
-\usepackage{titlesec}
-\usepackage[hidelinks]{hyperref}
-\usepackage{enumitem}
-\usepackage{geometry}
-\geometry{margin=0.7in}
+<div align="center">
 
-\pagestyle{empty}
-\setlength{\tabcolsep}{0in}
-\setlist[itemize]{noitemsep, topsep=0pt}
+# 💫 Hi 👋, I'm Ayush Rastogi  
+**Backend & Full-Stack Developer | Java • Spring Boot • React | Tata Steel**
 
-\titleformat{\section}{
-  \vspace{-4pt}\scshape\raggedright\large
-}{}{0em}{}[\titlerule \vspace{-5pt}]
+📩 **Email:** ✉️ **rastogiayush143@gmail.com**  
+💼 **Software Engineer** | **2.5+ Years Experience**
 
-\begin{document}
+<a href="https://linkedin.com/in/ayush-rastogi-611b641b0">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ayu-lgtm">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" />
+</a>
 
-\begin{center}
-    {\Huge \scshape Ayush Rastogi} \\ \vspace{4pt}
-    Lucknow, Uttar Pradesh, India \\ \vspace{2pt}
-    +91 7007356847 $|$ 
-    \href{mailto:rastogiayush143@gmail.com}{rastogiayush143@gmail.com} $|$ 
-    \href{https://linkedin.com/in/ayush-rastogi-611b641b0}{LinkedIn} $|$
-    \href{https://github.com/ayu-lgtm}{GitHub} $|$
-    \href{https://geeksforgeeks.org/user/ayushrastogi2000}{GeeksforGeeks}
-\end{center}
+</div>
 
-\vspace{-8pt}
+---
 
-\section{Professional Summary}
+## 🚀 About Me
+Full-Stack Developer with **2.5+ years of production experience** building **enterprise-grade B2B & B2C applications** used by real business users.
 
-Backend-focused Software Engineer with 2.5+ years of experience building production-grade systems using Java, Spring Boot, React, and SQL. Strong foundation in Data Structures and Algorithms (700+ problems solved). Experienced in owning features end-to-end from requirement discussions to deployment and production support.
+- 🔭 **Currently working on:** Backend & Full-Stack Development (Java, Spring Boot, React, SQL, MERN)
+- 🌱 **Currently learning:** Generative AI, LLM APIs, Prompt Engineering
+- 👯 **Looking to collaborate on:** Scalable backend systems, REST APIs, enterprise web apps
+- 🤔 **Exploring:** System Design & Distributed Systems
+- 💬 **Ask me about:** Java, Spring Boot, SQL Optimization, REST APIs, DSA
 
-\section{Experience}
+---
 
-\textbf{Tata Steel} \hfill Jul 2023 -- Present \\
-\textit{Software Engineer (Assistant Manager -- IT), Jamshedpur, Jharkhand}
+## 🧠 Daily Coding Practice
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-\begin{itemize}
-    \item Designed and implemented 25+ REST APIs for order management, approvals, and workflow automation in live production systems.
-    \item Led backend development for modules handling large transactional datasets with proper validation, exception handling, and transactional consistency.
-    \item Optimized complex SQL queries by redesigning joins and adding indexes, reducing average API response time by 35\%.
-    \item Built real-time tracking dashboards used by 200+ daily users, improving order lifecycle visibility.
-    \item Redesigned business validation logic in SmartFAB, improving material traceability and billing accuracy by 40\%.
-    \item Resolved 50+ production issues across backend and database layers through root cause analysis and hotfix deployments.
-    \item Collaborated with cross-functional teams to translate business requirements into scalable technical designs and normalized database schemas.
-\end{itemize}
+### 🔥 LeetCode
+<img src="https://leetcard.jacoblin.cool/rastogiayush143?theme=dark&font=Baloo&ext=heatmap" />
 
-\section{Technical Skills}
+</td>
+<td width="50%" align="center" valign="top">
 
-\textbf{Languages:} Java (Primary), Python, JavaScript (ES6+) \\
-\textbf{Backend:} Spring Boot, REST APIs, Microservices Basics, Node.js, Express.js \\
-\textbf{Frontend:} React.js, HTML5, CSS3 \\
-\textbf{Databases:} MySQL, SQL Server \\
-\textbf{Core CS:} Data Structures \& Algorithms (700+ problems), OOP, DBMS \\
-\textbf{Tools:} Git, GitHub, Postman, CI/CD Pipelines, VS Code, Eclipse \\
-\textbf{Other:} LLM API Integration, Prompt Engineering
+### 💚 GeeksforGeeks
+<img src="https://gfgstatscard.vercel.app/ayushrastogi2000" />
 
-\section{Projects}
+</td>
+</tr>
+</table>
 
-\textbf{DigEca -- E-Commerce Backend System} \\
-\textit{Java, Spring Boot, SQL Server}
-\begin{itemize}
-    \item Developed backend services supporting 1,000+ daily transactions with stable concurrent performance.
-    \item Refactored controller-service-repository layers for improved maintainability.
-    \item Implemented pagination, filtering, and optimized queries for large datasets.
-    \item Centralized validation and exception handling to improve API reliability.
-\end{itemize}
+---
 
-\textbf{SmartFAB -- Production Order Management System} \\
-\textit{Java, Spring Boot, SQL Server}
-\begin{itemize}
-    \item Designed multi-level approval workflows for production order lifecycle management.
-    \item Developed QR-based tracking module reducing manual traceability errors by 40\%.
-    \item Ensured ACID-compliant transactions across interconnected modules.
-    \item Proposed backend improvements adopted in live production.
-\end{itemize}
+## 🌐 Socials
+<div align="center">
 
-\section{Education}
+<a href="https://linkedin.com/in/ayush-rastogi-611b641b0">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ayu-lgtm">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-\textbf{Ajay Kumar Garg Engineering College (AKTU)} \hfill 2019 -- 2023 \\
-B.Tech in Computer Science \& Engineering \\
-CGPA: 8.90 / 10
+</div>
 
-\section{Certifications \& Achievements}
+---
 
-\begin{itemize}
-    \item HackerRank Problem Solving -- Intermediate
-    \item HackerRank SQL -- Intermediate
-    \item Solved 700+ DSA problems on GeeksforGeeks using Java
-    \item Delivered backend and automation improvements saving 300+ operational hours per month
-\end{itemize}
+<!-- 🐍 Contribution Snake -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+</div>
 
-\end{document}
-```
+---
+
+## 💻 Tech Stack
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ayu-lgtm&theme=dark&include_all_commits=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ayu-lgtm&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-lgtm&theme=dark&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayu-lgtm&theme=radical&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?theme=radical)
+
+---
+
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=ayu-lgtm&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=ayu-lgtm&color=0)](https://visitcount.itsvg.in)

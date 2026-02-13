@@ -40,36 +40,36 @@ Backend-focused Software Engineer with **2.5+ years of production experience** b
 - Optimized SQL joins & indexing reducing response time by 35%  
 - Built real-time order lifecycle dashboards  
 - Owned features end-to-end (Requirement → Design → Deployment → Support)
-
 ---
-
 ## 🛠 Tech Stack
 
-### Languages
-<p>
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b><br/>
 <img src="https://skillicons.dev/icons?i=java,python,js" />
-</p>
+</td>
 
-### Backend
-<p>
+<td align="center"><b>Backend</b><br/>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
+</td>
 
-### Frontend
-<p>
+<td align="center"><b>Frontend</b><br/>
 <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+</td>
+</tr>
 
-### Database
-<p>
+<tr>
+<td align="center"><b>Database</b><br/>
 <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+</td>
 
-### Tools
-<p>
+<td align="center"><b>Tools</b><br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse" />
-</p>
+</td>
 
+<td></td>
+</tr>
+</table>
 ---
 
 ## 💻 Coding Profiles
@@ -116,10 +116,10 @@ Backend-focused Software Engineer with **2.5+ years of production experience** b
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayu-lgtm&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-lgtm&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ayu-lgtm&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayu-lgtm&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
+
 
 ---
 

@@ -72,15 +72,6 @@ Spring Boot · REST APIs · OOP · DBMS · DSA · Microservices Basics
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayu-lgtm&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayu-lgtm&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🏆 Achievements
 
 - 700+ DSA problems solved  
@@ -90,10 +81,3 @@ Spring Boot · REST APIs · OOP · DBMS · DSA · Microservices Basics
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayu-lgtm/ayu-lgtm/output/snake.svg" />
-</p>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">

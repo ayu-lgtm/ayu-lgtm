@@ -1,33 +1,54 @@
 <h1 align="center">Ayush Rastogi</h1>
-<h3 align="center">Backend / Full Stack Engineer • Java • Spring Boot • React</h3>
+
+<p align="center">
+  <b>Backend / Full Stack Engineer</b> • Java • Spring Boot • React • SQL
+</p>
 
 <p align="center">
   <a href="mailto:rastogiayush143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/ayush-rastogi-611b641b0">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayush_Rastogi-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/ayu-lgtm">
-    <img src="https://img.shields.io/github/followers/ayu-lgtm?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-ayu--lgtm-black?style=flat-square&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-700%2B%20Solved-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST%20APIs-25%2B%20Production-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Performance-35%25%20Optimized-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSA-700%2B%20Problems-orange?style=flat-square" />
 </p>
 
 ---
 
 ## 🚀 Professional Summary
 
-Backend-focused Software Engineer with **2.5+ years of production experience** building scalable enterprise systems using **Java, Spring Boot, SQL, and React**.
+Backend-focused Software Engineer with **2.5+ years of hands-on production experience** building scalable enterprise systems.
 
-✔ Designed & deployed **25+ REST APIs**  
-✔ Improved API performance by **35%**  
-✔ Reduced billing & traceability errors by **40%**  
-✔ Resolved **50+ production issues** with RCA  
-✔ Built dashboards used by **200+ daily users**  
-✔ Strong DSA foundation (700+ problems solved)
+Specialized in:
 
+- ⚙ Designing robust **RESTful APIs**
+- 🗄 Handling **large transactional datasets**
+- 🚀 Optimizing SQL queries & backend performance
+- 🧩 Clean architecture (Controller → Service → Repository)
+- 🔁 End-to-end feature ownership (Requirement → Deployment → Support)
+
+Delivered measurable impact:
+
+- 📈 35% API performance improvement  
+- 📊 200+ daily active dashboard users  
+- 🔍 40% traceability & billing accuracy improvement  
+- 🛠 50+ production issues resolved with RCA  
+
+---
+
+<p align="center">
+  <i>Focused on scalable backend systems, clean architecture, and production-grade engineering.</i>
+</p>
 ---
 
 ## 🏢 Experience

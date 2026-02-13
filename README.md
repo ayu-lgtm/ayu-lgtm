@@ -1,41 +1,29 @@
 <h1 align="center">Ayush Rastogi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Production+Grade+Systems+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=550&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Production+Systems" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Backend-black?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Spring-Boot-success?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayu-lgtm&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
 
 <p align="center">
   <a href="mailto:rastogiayush143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/ayush-rastogi-611b641b0">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://github.com/ayu-lgtm">
-    <img src="https://img.shields.io/badge/GitHub-ayu--lgtm-black?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST%20APIs-25%2B%20Production-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Performance-35%25%20Optimized-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA-700%2B%20Problems-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST%20APIs-25%2B-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSA-700%2B-orange?style=flat-square" />
 </p>
 
 ---
+
 
 ## 🚀 Professional Summary
 

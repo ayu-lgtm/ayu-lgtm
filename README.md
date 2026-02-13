@@ -1,4 +1,4 @@
-
+```latex
 \documentclass[letterpaper,11pt]{article}
 
 \usepackage[empty]{fullpage}
@@ -95,3 +95,4 @@ CGPA: 8.90 / 10
 \end{itemize}
 
 \end{document}
+```

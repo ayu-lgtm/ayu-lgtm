@@ -1,8 +1,20 @@
 <h1 align="center">Ayush Rastogi</h1>
 
 <p align="center">
-  <b>Backend / Full Stack Engineer</b> • Java • Spring Boot • React • SQL
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Production+Grade+Systems+Builder" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Backend-black?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Spring-Boot-success?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayu-lgtm&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
 
 <p align="center">
   <a href="mailto:rastogiayush143@gmail.com">
@@ -43,13 +55,6 @@ Delivered measurable impact:
 - 📊 200+ daily active dashboard users  
 - 🔍 40% traceability & billing accuracy improvement  
 - 🛠 50+ production issues resolved with RCA  
-
----
-
-<p align="center">
-  <i>Focused on scalable backend systems, clean architecture, and production-grade engineering.</i>
-</p>
----
 
 ## 🏢 Experience
 

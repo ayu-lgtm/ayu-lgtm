@@ -1,28 +1,38 @@
 <h1 align="center">Ayush Rastogi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=550&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Production+Systems" />
+  <b>Backend Engineer</b> • Java • Spring Boot • React • SQL
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1500&color=2F80ED&center=true&vCenter=true&width=500&lines=Designing+Scalable+APIs;Optimizing+Backend+Performance;Production-Ready+System+Builder" />
+</p>
+
+<br/>
 
 <p align="center">
   <a href="mailto:rastogiayush143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/ayush-rastogi-611b641b0">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/ayu-lgtm">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST%20APIs-25%2B-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA-700%2B-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/2.5%2B%20Years%20Experience-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/25%2B%20Production%20APIs-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/35%25%20Performance%20Boost-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/700%2B%20DSA%20Solved-orange?style=flat-square" />
 </p>
 
 ---
+
 
 
 ## 🚀 Professional Summary

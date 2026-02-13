@@ -1,17 +1,3 @@
-Here is your **advanced, professional, recruiter-focused GitHub README** with:
-
-* Clean modern layout
-* Better GitHub stats visibility
-* Contribution streak
-* Coding profiles (GeeksforGeeks + LeetCode)
-* Strong UI using badges + sections
-* FAANG-level positioning
-
-You can directly copy this into `README.md`.
-
----
-
-```markdown
 <h1 align="center">Ayush Rastogi</h1>
 <h3 align="center">Backend / Full Stack Engineer • Java • Spring Boot • React</h3>
 
@@ -156,13 +142,3 @@ Backend-focused Software Engineer with **2.5+ years of production experience** b
 <p align="center">
   <b>Building scalable backend systems with clean architecture & production ownership mindset.</b>
 </p>
-```
-
----
-
-If you want, I can now:
-
-* Make a **FAANG-level ultra premium animated version**
-* Add **visitor counter + activity graph**
-* Create a **dark-mode only elite minimal version**
-* Or design a **Backend Engineer focused version specifically for Samsung / product companies**

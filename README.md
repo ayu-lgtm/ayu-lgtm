@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayu-lgtm&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1500&color=2F80ED&center=true&vCenter=true&width=500&lines=Designing+Scalable+APIs;Optimizing+Backend+Performance;Production-Ready+System+Builder" />
 </p>
 

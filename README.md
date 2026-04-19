@@ -39,7 +39,7 @@
 
 ## 🚀 Professional Summary
 
-Backend Engineer with **2+ years of experience** building scalable microservices and distributed systems using **Java and Spring Boot**.
+Backend Engineer with **3+ years of experience** building scalable microservices and distributed systems using **Java and Spring Boot**.
 
 Currently working at Tata Steel, delivering backend systems handling high-volume transactions and concurrent users, while improving performance and system reliability.
 
